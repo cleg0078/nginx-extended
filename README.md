@@ -13,7 +13,7 @@
 
 ## runs for ubuntu & debian 
 
-Simple script doing all-in-one :)
+Simple script doing all-in-one compilation
 
 Just launch the script
 
